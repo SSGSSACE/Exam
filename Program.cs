@@ -7,8 +7,9 @@ namespace Exam
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Quang");"Nhap gia tri 1: ");
+            Console.WriteLine("Nhap gia tri 1: ");
             Console.ReadLine();
+            Console.WriteLine(Console.ReadLine());
             Console.WriteLine("Hoang");
         }
     }
