@@ -7,7 +7,7 @@ namespace Exam
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Nhap gia tri 1: ");
+            Console.Write("Nhap gia tri 1: ");
             string a = Console.ReadLine();
             Console.WriteLine(a);
             Console.WriteLine("Hoang");
