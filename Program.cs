@@ -8,7 +8,8 @@ namespace Exam
         {
 
             Console.WriteLine("Nhap gia tri 1: ");
-            Console.WriteLine(Console.ReadLine());
+            string a = Console.ReadLine();
+            Console.WriteLine(a);
             Console.WriteLine("Hoang");
         }
     }
