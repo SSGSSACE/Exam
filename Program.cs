@@ -6,7 +6,9 @@ namespace Exam
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int a;
+            int b;
+            Console.WriteLine("Nhap gia tri 1: ");
             Console.WriteLine("Quang");
             Console.WriteLine("Hoang");
         }
