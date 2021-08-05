@@ -9,7 +9,7 @@ namespace Exam
             int a;
             int b;
             Console.WriteLine("Nhap gia tri 1: ");
-            Console.WriteLine("Quang");
+            Console.ReadLine();
             Console.WriteLine("Hoang");
         }
     }
